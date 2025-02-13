@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://psychronos.github.io/psychronos.com/sitemap.xml
