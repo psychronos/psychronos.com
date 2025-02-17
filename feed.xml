@@ -3,7 +3,7 @@
     <title>psychronos.com</title>
     <link href="https://psychronos.com/feed.xml" rel="self" />
     <link href="https://psychronos.com" />
-    <updated>2025-02-17T13:32:59-05:00</updated>
+    <updated>2025-02-17T13:38:20-05:00</updated>
     <author>
         <name>Andrew Zhu</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://psychronos.com/options-tutorial-2-option-strategies-from-basic-to-advanced/index.html"/>
         <id>https://psychronos.com/options-tutorial-2-option-strategies-from-basic-to-advanced/index.html</id>
+            <category term="Options"/>
+            <category term="Option Strategy"/>
 
-        <updated>2025-02-17T13:32:59-05:00</updated>
+        <updated>2025-01-13T12:00:00-05:00</updated>
             <summary>
                 <![CDATA[
                     Now that we’ve covered the fundamentals of options, it’s time to explore the diverse strategies available to options traders. This section will guide you through various approaches, from simple buying and selling to more complex combinations, illustrating their applications with real-world examples using popular stocks&hellip;
@@ -179,7 +181,7 @@
         </content>
     </entry>
     <entry>
-        <title>Options Tutorial: A Beginner&#x27;s Guide</title>
+        <title>Options Tutorial #1: A Beginner&#x27;s Guide</title>
         <author>
             <name>Andrew Zhu</name>
         </author>
@@ -187,7 +189,7 @@
         <id>https://psychronos.com/options-tutorial-a-beginners-guide/index.html</id>
             <category term="Options"/>
 
-        <updated>2025-02-17T12:43:57-05:00</updated>
+        <updated>2025-01-06T12:00:00-05:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to the exciting world of options trading! This first installment of our tutorial series will lay the foundation for understanding what options are, why they’re used, and the essential terminology you’ll encounter. If you’ve ever felt intimidated by the complexity of options, don’t worry.
@@ -258,7 +260,7 @@
             <category term="U.S. Stocks"/>
             <category term="A-Shares"/>
 
-        <updated>2025-02-13T02:16:54-05:00</updated>
+        <updated>2024-12-30T12:00:00-05:00</updated>
             <summary>
                 <![CDATA[
                     For years, I have been investing in the China A-share market, but making consistent profits was challenging. High volatility, government policies, and retail investor dominance made it difficult to achieve long-term growth. That’s why I decided to explore US stock market investing, which turned out&hellip;
