@@ -3,7 +3,7 @@
     <title>psychronos.com</title>
     <link href="https://psychronos.com/feed.xml" rel="self" />
     <link href="https://psychronos.com" />
-    <updated>2025-02-17T12:44:39-05:00</updated>
+    <updated>2025-02-17T12:45:30-05:00</updated>
     <author>
         <name>Andrew Zhu</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://psychronos.com/options-tutorial-a-beginners-guide/index.html"/>
         <id>https://psychronos.com/options-tutorial-a-beginners-guide/index.html</id>
+            <category term="Options"/>
 
         <updated>2025-02-17T12:43:57-05:00</updated>
             <summary>
