@@ -3,12 +3,78 @@
     <title>psychronos.com</title>
     <link href="https://psychronos.com/feed.xml" rel="self" />
     <link href="https://psychronos.com" />
-    <updated>2025-02-13T02:18:09-05:00</updated>
+    <updated>2025-02-17T12:44:39-05:00</updated>
     <author>
         <name>Andrew Zhu</name>
     </author>
     <id>https://psychronos.com</id>
 
+    <entry>
+        <title>Options Tutorial: A Beginner&#x27;s Guide</title>
+        <author>
+            <name>Andrew Zhu</name>
+        </author>
+        <link href="https://psychronos.com/options-tutorial-a-beginners-guide/index.html"/>
+        <id>https://psychronos.com/options-tutorial-a-beginners-guide/index.html</id>
+
+        <updated>2025-02-17T12:43:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Options are contracts that give you the right, but not the obligation, to buy or sell an asset (like a stock) at a specific price (the strike price) on or before a specific date (the expiration date). Think of it like a reservation – you’re&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Options are contracts that give you the <em>right</em>, but not the <em>obligation</em>, to buy or sell an asset (like a stock) at a specific price (the strike price) on or before a specific date (the expiration date).  Think of it like a reservation – you’re reserving the right to buy something at a certain price, but you don’t <em>have</em> to buy it.</p><p><strong>Key Terms:</strong></p><ul>
+<li><strong>Underlying Asset:</strong> The asset the option contract is based on (e.g., a stock like AAPL).</li>
+<li><strong>Call Option:</strong> Gives the buyer the right to <em>buy</em> the underlying asset.</li>
+<li><strong>Put Option:</strong> Gives the buyer the right to <em>sell</em> the underlying asset.</li>
+<li><strong>Strike Price:</strong> The price at which you can buy (for a call) or sell (for a put) the underlying asset if you exercise the option.</li>
+<li><strong>Expiration Date:</strong> The date the option contract expires.  After this date, the option is no longer valid.</li>
+<li><strong>Premium:</strong> The price you pay to buy an option contract.  This is what the seller receives.</li>
+<li><strong>Option Buyer (Holder):</strong> The person who buys the option.</li>
+<li><strong>Option Seller (Writer):</strong> The person who sells the option.  They receive the premium.</li>
+<li><strong>Exercise:</strong> The act of using your right to buy (call) or sell (put) the underlying asset at the strike price.</li>
+<li><strong>In the Money (ITM):</strong> A call option is ITM when the current market price of the underlying asset is <em>above</em> the strike price. A put option is ITM when the current market price is <em>below</em> the strike price.</li>
+<li><strong>At the Money (ATM):</strong> When the market price is <em>equal</em> to the strike price.</li>
+<li><strong>Out of the Money (OTM):</strong> A call option is OTM when the market price is <em>below</em> the strike price. A put option is OTM when the market price is <em>above</em> the strike price.</li>
+</ul>
+<p><strong>Types of Options:</strong></p><ul>
+<li><strong>American Options:</strong> Can be exercised anytime before the expiration date.</li>
+<li><strong>European Options:</strong> Can only be exercised on the expiration date.  Most exchange-traded options are American.</li>
+</ul>
+<p><strong>Why Use Options?</strong></p><ul>
+<li><strong>Leverage:</strong> Options allow you to control a large number of shares with a smaller investment (the premium).</li>
+<li><strong>Hedging:</strong> Options can be used to protect your existing stock portfolio from potential losses.</li>
+<li><strong>Income Generation:</strong> Selling options can generate income (the premium received).</li>
+<li><strong>Speculation:</strong> Options can be used to bet on the direction of a stock’s price movement.</li>
+</ul>
+<p><strong>Example:</strong></p><p>Let’s say AAPL is trading at $150. You think the price will go up.</p><ul>
+<li><p><strong>Buying a Call Option:</strong> You buy a AAPL call option with a strike price of $155 and an expiration date in one month.  Let’s say the premium is $5 per share (options contracts represent 100 shares).  Your total cost would be $500 (100 shares x $5 premium).</p><ul>
+<li>If AAPL goes above $155 before expiration, your option is ITM and you can exercise it (buy AAPL at $155) and potentially profit.</li>
+<li>If AAPL stays below $155, your option expires worthless, and you lose your $500 premium.</li>
+</ul>
+</li>
+<li><p><strong>Buying a Put Option:</strong> You buy a AAPL put option with a strike price of $145 and the same expiration date. Let’s say the premium is $3.  Your cost is $300.</p><ul>
+<li>If AAPL goes below $145, your put option is ITM and you can exercise it (sell AAPL at $145) and potentially profit.</li>
+<li>If AAPL stays above $145, your option expires worthless, and you lose your $300 premium.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Important Considerations:</strong></p><ul>
+<li><strong>Risk:</strong> Options trading is risky. You can lose your entire investment (the premium).</li>
+<li><strong>Time Decay:</strong> Options lose value over time, especially as the expiration date approaches. This is called time decay or theta.</li>
+<li><strong>Complexity:</strong> Options strategies can be complex and require a good understanding of market dynamics.</li>
+</ul>
+<p><strong>Next Steps:</strong></p><ul>
+<li><strong>Paper Trading:</strong> Practice trading options with a virtual trading account to get a feel for how they work without risking real money.</li>
+<li><strong>Research:</strong> Learn as much as you can about different options strategies.</li>
+<li><strong>Start Small:</strong> If you decide to trade options, start with a small amount of capital that you can afford to lose.</li>
+</ul>
+<p>This tutorial provides a basic overview.  Options trading is a complex subject, and further research is essential.  Don’t hesitate to ask if you have more questions!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A-Shares vs U.S. Stocks: Why I Switched and Achieved Financial Freedom</title>
         <author>
@@ -29,10 +95,12 @@
             <![CDATA[
                 <p>For years, I have been investing in the China A-share market, but making consistent profits was challenging. High volatility, government policies, and retail investor dominance made it difficult to achieve long-term growth. That’s why I decided to explore US stock market investing, which turned out to be a game-changer. In this post, I will compare A-shares vs US stocks and share why I transitioned to US investments.</p><h2 id="1-my-a-share-investing-journey-from-enthusiasm-to-harsh-reality-2008-2015">1. My A-Share Investing Journey: From Enthusiasm to Harsh Reality (2008-2015)</h2>
 <p>In 2008, I stepped into the A-share market with boundless enthusiasm and the belief that through diligent learning and in-depth research, I could secure a share of the capital market’s wealth. Yet, the harsh realities of the A-share market crushed my naive optimism, leaving me battered and disillusioned.</p><h3 id="11-2008-2013-why-the-a-share-bear-market-crushed-retail-investors">1.1. 2008-2013: Why the A-Share Bear Market Crushed Retail Investors</h3>
-<p>The timing of my entry into the A-share market was far from ideal. After the Shanghai Composite Index reached its peak of 6124 points in 2007, the global financial crisis of 2008 caused the A-share market to plummet to 1664 points within a year, a staggering drop of 72%. At that time, market analysts were touting a “golden decade,” leading me to mistakenly believe that a strong rebound would follow the crash.</p><p>However, the reality was that from 2009 to 2013, the A-share market did not experience a true bull market but remained in a prolonged bear market characterized by volatility and decline. Although there were occasional rebounds, each was mercilessly crushed, with the index hovering between 2000 and 2500 points.</p><p>What truly shattered my confidence was the stark realization that the A-share market was anything but a level playing field. During those years, I witnessed numerous instances of institutional manipulation, such as:</p><p>Market manipulation was rampant, with small-cap stocks artificially inflated to attract retail investors, only to be dumped abruptly, leaving them with heavy losses.
-Executive Share Sales: Some listed companies engaged in large-scale share sales at high prices, followed by a continuous decline in stock prices, leaving retail investors to bear the losses.
-Insider Trading: The market was rife with rumors of “institutional insider information,” but ordinary investors rarely had access to such information in advance, often ending up as the “cabbage” being harvested.
-During this period, I tried short-term trading multiple times, hoping to reduce losses through swing trading. However, due to the overall market downturn, each rebound became a selling point, leading to continuous losses and a gradual loss of confidence.</p><h3 id="12-2014-2015-the-a-share-bubblefrom-bull-market-to-brutal-crash">1.2. 2014-2015: The A-Share Bubble—From Bull Market to Brutal Crash</h3>
+<p>The timing of my entry into the A-share market was far from ideal. After the Shanghai Composite Index reached its peak of 6124 points in 2007, the global financial crisis of 2008 caused the A-share market to plummet to 1664 points within a year, a staggering drop of 72%. At that time, market analysts were touting a “golden decade,” leading me to mistakenly believe that a strong rebound would follow the crash.</p><p>However, the reality was that from 2009 to 2013, the A-share market did not experience a true bull market but remained in a prolonged bear market characterized by volatility and decline. Although there were occasional rebounds, each was mercilessly crushed, with the index hovering between 2000 and 2500 points.</p><p>What truly shattered my confidence was the stark realization that the A-share market was anything but a level playing field. During those years, I witnessed numerous instances of institutional manipulation, such as:</p><ul>
+<li>Market manipulation was rampant, with small-cap stocks artificially inflated to attract retail investors, only to be dumped abruptly, leaving them with heavy losses.</li>
+<li>Executive Share Sales: Some listed companies engaged in large-scale share sales at high prices, followed by a continuous decline in stock prices, leaving retail investors to bear the losses.</li>
+<li>Insider Trading: The market was rife with rumors of “institutional insider information,” but ordinary investors rarely had access to such information in advance, often ending up as the “cabbage” being harvested.</li>
+</ul>
+<p>During this period, I tried short-term trading multiple times, hoping to reduce losses through swing trading. However, due to the overall market downturn, each rebound became a selling point, leading to continuous losses and a gradual loss of confidence.</p><h3 id="12-2014-2015-the-a-share-bubblefrom-bull-market-to-brutal-crash">1.2. 2014-2015: The A-Share Bubble—From Bull Market to Brutal Crash</h3>
 <p>In 2014, the A-share market finally experienced a bull market. Within a year and a half, the Shanghai Composite Index soared from 2000 points to 5178 points, with market sentiment reaching a fever pitch, and it seemed that everyone was making money. I was no exception, and my account balance doubled rapidly during this bull market, leading me to believe that I had finally grasped the market’s rhythm.</p><p>However, I overlooked a crucial issue—the essence of this bull market was not driven by economic growth but was a bubble inflated by leveraged funds and speculative hype.</p><p>In June 2015, the A-share bubble burst, and the market crashed nearly 50% within just two months. Leveraged funds were forcibly liquidated, and a large number of retail investors were forced to sell at a loss. I was not spared, with not only my profits vanishing but also my losses exceeding the principal I had before the bull market. I still remember the despair of that time:</p><p>Each morning, I woke up to the dreaded sight of another limit-down freeze—my holdings locked, my hopes crushed, and my screen bathed in a sea of red. It was financial despair in its rawest form.
 Regulatory authorities introduced various measures to save the market, but market confidence had already collapsed, and any rebound was short-lived.
 The market was filled with the painful sounds of investors cutting their losses and clearing their positions, with friends around me leaving the market one after another.</p><h3 id="13-why-a-shares-struggle-to-sustain-long-term-bull-markets">1.3. Why A-Shares Struggle to Sustain Long-Term Bull Markets</h3>
