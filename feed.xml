@@ -3,7 +3,7 @@
     <title>psychronos.com</title>
     <link href="https://psychronos.com/feed.xml" rel="self" />
     <link href="https://psychronos.com" />
-    <updated>2025-02-18T01:26:53-05:00</updated>
+    <updated>2025-02-18T01:33:44-05:00</updated>
     <author>
         <name>Andrew Zhu</name>
     </author>
@@ -17,7 +17,11 @@
         <link href="https://psychronos.com/nanc-vs-kruz-comparing-etfs-that-track-congressional-stock-trades/index.html"/>
         <id>https://psychronos.com/nanc-vs-kruz-comparing-etfs-that-track-congressional-stock-trades/index.html</id>
             <category term="U.S. Stocks"/>
+            <category term="Ted Cruz"/>
+            <category term="Republican Party"/>
+            <category term="Nancy Pelosi"/>
             <category term="ETFs"/>
+            <category term="Democratic Party"/>
 
         <updated>2025-02-17T12:00:00-05:00</updated>
             <summary>
